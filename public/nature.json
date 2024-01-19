@@ -2,56 +2,56 @@
   {
     "id": 1,
     "name": "Mountain View",
-    "url": "https://source.unsplash.com/600x400/?mountain"
+    "img": "https://source.unsplash.com/600x400/?mountain"
   },
   {
     "id": 2,
     "name": "Sunset Forest",
-    "url": "https://source.unsplash.com/600x400/?sunset,forest"
+    "img": "https://source.unsplash.com/600x400/?sunset,forest"
   },
   {
     "id": 3,
     "name": "Ocean Waves",
-    "url": "https://source.unsplash.com/600x400/?ocean,waves"
+    "img": "https://source.unsplash.com/600x400/?ocean,waves"
   },
   {
     "id": 4,
     "name": "Meadow Serenity",
-    "url": "https://source.unsplash.com/600x400/?meadow,serenity"
+    "img": "https://source.unsplash.com/600x400/?meadow,serenity"
   },
   {
     "id": 5,
     "name": "Lakeside Reflection",
-    "url": "https://source.unsplash.com/600x400/?lake,reflection"
+    "img": "https://source.unsplash.com/600x400/?lake,reflection"
   },
   {
     "id": 6,
     "name": "Desert Oasis",
-    "url": "https://source.unsplash.com/600x400/?desert,oasis"
+    "img": "https://source.unsplash.com/600x400/?desert,oasis"
   },
   {
     "id": 7,
     "name": "Green Valley",
-    "url": "https://source.unsplash.com/600x400/?green,valley"
+    "img": "https://source.unsplash.com/600x400/?green,valley"
   },
   {
     "id": 8,
     "name": "Snowy Peaks",
-    "url": "https://source.unsplash.com/600x400/?snowy,peaks"
+    "img": "https://source.unsplash.com/600x400/?snowy,peaks"
   },
   {
     "id": 9,
     "name": "Wildflower Meadow",
-    "url": "https://source.unsplash.com/600x400/?wildflower,meadow"
+    "img": "https://source.unsplash.com/600x400/?wildflower,meadow"
   },
   {
     "id": 10,
     "name": "Cascading Waterfall",
-    "url": "https://source.unsplash.com/600x400/?waterfall"
+    "img": "https://source.unsplash.com/600x400/?waterfall"
   },
   {
     "id": 11,
     "name": "Autumn Forest",
-    "url": "https://source.unsplash.com/600x400/?autumn,forest"
+    "img": "https://source.unsplash.com/600x400/?autumn,forest"
   }
 ]

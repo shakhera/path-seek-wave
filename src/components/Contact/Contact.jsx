@@ -1,9 +1,18 @@
-import React from "react";
+import React, { useContext } from "react";
+import { AuthContext } from "../Provider/AuthProvider";
 
 const Contact = () => {
+  const { user } = useContext(AuthContext);
   return (
-    <div>
-      <h1>contact</h1>
+    <div
+      // className="bg-slate-300"
+      className="hero min-h-screen"
+      style={{
+        backgroundImage:
+          "url(https://images.unsplash.com/reserve/bOvf94dPRxWu0u3QsPjF_tree.jpg?ixid=M3wxMjA3fDB8MXxzZWFyY2h8NHx8bmF0dXJhbHxlbnwwfHx8fDE3MDU1NjUxOTN8MA&ixlib=rb-4.0.3)",
+      }}
+    >
+      <h1 className="text-white text-7xl">contact now</h1>
     </div>
   );
 };

@@ -1,4 +1,5 @@
 import React from "react";
+import NaturalView from "../NaturalView/NaturalView";
 
 const Home = () => {
   return (
@@ -25,6 +26,9 @@ const Home = () => {
                 story of nature's resilience.
               </p>
               <button className="btn btn-primary">You can Visit..!</button>
+            </div>
+            <div>
+              <NaturalView></NaturalView>
             </div>
           </div>
         </div>
